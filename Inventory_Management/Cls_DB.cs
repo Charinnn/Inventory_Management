@@ -16,7 +16,6 @@ namespace Inventory_Management
         //{
         //    //
         //    // TODO: Add constructor logic here
-        //    //
         //}
         private string strConnection()
         {
